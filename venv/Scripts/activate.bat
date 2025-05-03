@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\danie\Downloads\Arquivos_Fora_do_OneDrive\alura\imsersao-analises\descriptive-analysis\venv
+set VIRTUAL_ENV=C:\Users\danie\Downloads\Arquivos_Fora_do_OneDrive\alura\imsersao-analises\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
